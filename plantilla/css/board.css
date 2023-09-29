@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    margin: 2rem;
+    color: #fffafa;
+    text-shadow: 5px 5px 5px rgba(0, 0,0, alpha0.46);
+    
+        border-top-width: 8px;
+        border-top-style: solid;
+        border-right-width: 8px;
+        border-right-style: solid;
+        border-bottom-width: 8px;
+        border-bottom-style: solid;
+        border-left-width: 8px;
+        border-left-style: solid;
+}
+footer{
+    text-align: center;
+    margin: 2rem;
+    color:rgb(247, 245, 252);
+    elemento {
+        border-top-width: 10px;
+        border-top-style: solid;
+        border-right-width: 10px;
+        border-right-style: solid;
+        border-bottom-width: 10px;
+        border-bottom-style: solid;
+        border-left-width: 10px;
+        border-left-style: solid; /* aplicar fisher yates a el barajeo en java script*/
+    }
+
+    .contenedor {
+        background-image: url('/images/estrellas.gif');
+        background-repeat: no-repeat; /* Evita que la imagen se repita */
+        background-size: cover; /* Ajusta la imagen al tamaño del contenedor */
+        /* Otras propiedades de fondo, como background-position, background-color, etc. */
+      }
+}
+body{
+    background-color: black;
+    background-image: url('/img/images/estrellas.gif'); 
+}
